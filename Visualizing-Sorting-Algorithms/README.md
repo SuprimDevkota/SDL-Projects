@@ -12,7 +12,7 @@ they actually work!
 ## Demo
 Quick demo of Quick Sort:
 
-![Quick-Sort](https://github.com/SuprimDevkota/Visualizing-Sorting-Algorithms/blob/master/gifs/quicksort.gif)
+![Quick-Sort](https://github.com/SuprimDevkota/SDL-Projects/blob/main/Visualizing-Sorting-Algorithms/gifs/quicksort.gif)
 
 ## Cloning the project
 
