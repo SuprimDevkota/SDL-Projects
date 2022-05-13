@@ -5,10 +5,10 @@
 ## Demo
 Quick demo of a Julia set with c = -0.8 + 0.156j and the famous Mandelbrot set
 
-![Julia-set](https://github.com/SuprimDevkota/FractalGenerator/blob/master/gifs/Fractal%20generator.gif)<br>
+![Julia-set](https://github.com/SuprimDevkota/SDL-Projects/tree/main/FractalGenerator/gifs)<br>
 P.S-the inversion in b/w while zooming in is due to overflow of the long doubles min and max BUT i still think it looks cool!!<br>
 
-![Mandelbrot](https://github.com/SuprimDevkota/FractalGenerator/blob/master/gifs/mandelbrot.gif)
+![Mandelbrot](https://github.com/SuprimDevkota/SDL-Projects/FractalGenerator/blob/master/gifs/mandelbrot.gif)
 
 ## Cloning the project
 
