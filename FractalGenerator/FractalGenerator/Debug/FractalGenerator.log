@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Visual Studio Codes\FractalGenerator\FractalGenerator\Main.cpp(45,22): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio Codes\FractalGenerator\FractalGenerator\Main.cpp(92,11): warning C4244: '=': conversion from 'ld' to 'int', possible loss of data
+D:\Visual Studio Codes\FractalGenerator\FractalGenerator\Main.cpp(93,28): warning C4244: 'argument': conversion from 'ld' to 'int', possible loss of data
+D:\Visual Studio Codes\FractalGenerator\FractalGenerator\Main.cpp(93,16): warning C4244: '=': conversion from 'ld' to 'int', possible loss of data
+D:\Visual Studio Codes\FractalGenerator\FractalGenerator\Main.cpp(94,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio Codes\FractalGenerator\FractalGenerator\Main.cpp(94,15): warning C4244: '=': conversion from 'ld' to 'int', possible loss of data
+  FractalGenerator.vcxproj -> D:\Visual Studio Codes\FractalGenerator\Debug\FractalGenerator.exe
