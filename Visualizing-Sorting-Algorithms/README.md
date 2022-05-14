@@ -14,12 +14,6 @@ Quick demo of Quick Sort:
 
 ![Quick-Sort](https://github.com/SuprimDevkota/SDL-Projects/blob/main/Visualizing-Sorting-Algorithms/gifs/quicksort.gif)
 
-## Cloning the project
-
-```bash
-  git clone https://github.com/SuprimDevkota/Visualizing-Sorting-Algorithms.git
-```
-
 
 
 
