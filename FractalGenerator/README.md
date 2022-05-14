@@ -10,11 +10,6 @@ P.S-the inversion in b/w while zooming in is due to overflow of the long doubles
 
 ![Mandelbrot](https://github.com/SuprimDevkota/SDL-Projects/blob/main/FractalGenerator/gifs/mandelbrot.gif)
 
-## Cloning the project
-
-```bash
-  git clone https://github.com/SuprimDevkota/FractalGenerator.git
-```
 
 
 
