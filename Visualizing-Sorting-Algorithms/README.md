@@ -16,6 +16,15 @@ Quick demo of Quick Sort:
 
 
 
+## Included Algorithms
+```
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort
+```
+
 
 
 ## Dependencies
